@@ -1,0 +1,24 @@
+{
+  "name": "uwitreesfarms",
+  "version": "1.0.0",
+  "description": "Node.js Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glassstone-Solutions/uwitreesfarms.git"
+  },
+  "author": "Thompson Edolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glassstone-Solutions/uwitreesfarms/issues"
+  },
+  "homepage": "https://github.com/Glassstone-Solutions/uwitreesfarms#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "parse": "^1.8.5",
+    "parse-server": "^2.2.14"
+  }
+}
